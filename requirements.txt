@@ -1,0 +1,1 @@
+postgis==2.4Shapely==1.6GEOS==3.3geojson==2.4.0
